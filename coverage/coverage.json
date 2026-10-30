@@ -1,0 +1,25 @@
+{
+  "branches": {
+    "coverage": "-",
+    "missed": 0,
+    "total": 0
+  },
+  "functions": {
+    "coverage": "77.61%",
+    "missed": 1558,
+    "total": 6960
+  },
+  "generated_at": "2026-10-30T02:26:39Z",
+  "lines": {
+    "coverage": "81.15%",
+    "missed": 11168,
+    "total": 59238
+  },
+  "package": "workspace",
+  "regions": {
+    "coverage": "79.74%",
+    "missed": 17272,
+    "total": 85261
+  },
+  "run_url": "https://github.com/Apokleos/AgentENV/actions/runs/40989056316"
+}
